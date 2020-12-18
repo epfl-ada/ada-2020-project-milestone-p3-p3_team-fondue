@@ -30,15 +30,18 @@ For this project we will use the original data set from the paper.
 - Match the groups using the aforementioned propensity score, this will balance the dataset and correct for various variables like income, hours worked by household members per capita, etcetera.
 - Assess the efficiency of matching using visualization methods. Is it a successful matching?
 - Make a similar regression as in table 6 by replacing dpisofirme by S_instcement (indicating the installation of cement)
-- Comparison between obtained results in the paper and in 5)
 - Visualization
 
 ### Methods for part 2:
 
-- Match the control and treatment datasets over the dpisofirme variable.
-- Perform regressions on variables indicating mental health (stress, depression, satisfaction features), by using indicators of the presence of cement floors in different rooms and the different renovation instances to determine which variable has the most influence in overall satisfaction.
+- Perform regressions on variables indicating mental health (stress, depression, satisfaction features), by using indicators of the presence of cement floors in different rooms (kitchen, dining room, bedroom, bathroom) to determine which variable has the most influence in overall satisfaction.
 - Check the significance of results.
 - Make conclusions on how the Piso Firme program can be the most cost-effective to be implemented in other develping regions.
+
+### Methods for part 3:
+- Perform regressions on variables indicating mental health (stress, depression, satisfaction features), by using indicators of the different renovation instances (cement floors, construction adn restoration of sanitary facilities, construction of ceiling, restoration of walls) to determine which variable has the most influence in overall satisfaction.
+- Check the significance of results.
+- Make conclusions on whether or not Piso Firme program should include other types of house improvements for future instances.
 
 ## 6) Proposed timeline
 
@@ -46,16 +49,10 @@ For this project we will use the original data set from the paper.
 - Week 2: Do all the regressions for all the variables proposed in the methodology, and test for robustness and significance. Start working on the visualizations and the conclusions.
 - Week 3: Reach conclusions and great visuals for the data story. Record the video and finish the data story.
 
-## 7) Team organization
+## 7) Contribution from the team members
 
-- Victor: Building the propensity scores and matching the treatment and control groups.
+- Victor Taburet: Building the propensity scores and matching the treatment and control groups, performing the regressions for research question 1, interpretation and visualization for results. Data story: original draft and design.
 
-- Jingran: Doing the regressions and analysing the results. Compare them to the results of the paper.
+- Su Jingran: Data visualization, map construction, design in html images. Performing the regressions for research question 2, interpretation and visualization for results. Data story: original draft and design.
 
-- Daniel: Doing the visualizations, writting down the conclusions and writting the data story.
-
-- All: Record and edit the video.
-
-## 8) Question for TAs
-
-We wondered if regression was the best option to check the influence of several variables on dependent variables or is there a better method?
+- Daniel Gutierrez-Navarro: Data analysis, performing the regressions for research question 2 & 3, interpretation and visualization for results. Data story: original draft.
