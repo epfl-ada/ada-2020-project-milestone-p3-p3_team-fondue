@@ -12,7 +12,7 @@ The Piso Firme program aims to improve the quality of life of Mexican people by 
 
 ## 3) Research questions
 
-1)If we want to advise households on what improvement they should invest in: Do households that invested themselves (without aid from the government) in cement floors also received similar impacts in terms of mental health and happiness?
+1) If we want to advise households on what improvement they should invest in: Do households that invested themselves (without aid from the government) in cement floors also received similar impacts in terms of mental health and happiness?
 
 2) What rooms have the greatest effect on the mental health and well-being of the house caretaker, when upgraded with cement floors? How can the Piso Firme program be more cost-effective?
 
